@@ -1,0 +1,5 @@
+1    Name:ahmad    Rent:3000    Park:5 
+2    Name:karam    Rent:6830    Park:3
+3    Name:loran    Rent:5000    Park:9
+4    Name:farah    Rent:3900    Park:11
+5    Name:salem    Rent:8000    Park:7
